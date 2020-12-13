@@ -91,6 +91,7 @@
               "src/assets"
             ],
             "styles": [
+              "../node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -124,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "data-binding"
+  "defaultProject": "data-binding",
+  "cli": {
+    "analytics": "a56b4432-91ce-4707-964a-6d519f4aa288"
+  }
 }
